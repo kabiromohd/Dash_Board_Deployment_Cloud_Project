@@ -76,7 +76,6 @@ python-lsp-server
 pytweening
 pytz
 pywhatkit
-pywin32
 PyYAML
 queuelib
 requests-oauthlib
