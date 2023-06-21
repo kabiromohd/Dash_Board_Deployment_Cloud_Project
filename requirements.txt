@@ -45,7 +45,6 @@ MouseInfo
 mpmath
 munkres
 mypy-extensions
-navigator-updater
 num2words
 oauthlib
 pathspec
