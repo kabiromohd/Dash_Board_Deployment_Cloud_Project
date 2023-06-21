@@ -39,7 +39,6 @@ langdetect
 llvmlite
 mathparse
 mccabe
-mkl-fft
 mkl-service
 MouseInfo
 mpmath
