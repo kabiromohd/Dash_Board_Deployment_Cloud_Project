@@ -14,9 +14,6 @@ chatterbot-corpus
 clyent
 colorlover
 comtypes
-conda
-conda-build
-conda-verify
 constantly
 cssselect
 cufflinks
