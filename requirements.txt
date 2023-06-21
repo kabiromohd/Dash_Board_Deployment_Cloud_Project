@@ -1,4 +1,3 @@
-anaconda-navigator
 ansi2html
 appdirs
 atomicwrites
@@ -9,7 +8,6 @@ black
 Brotli
 brotlipy
 certifi
-
 chart-studio
 ChatterBot
 chatterbot-corpus
