@@ -20,7 +20,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = JupyterDash(__name__, external_stylesheets=external_stylesheets)
 
 # Create server variable with Flask server object for use with gunicorn
-#server = app.server # Flask server
+server = app.server # Flask server
 
 app.layout = html.Div([
     html.Div([
@@ -168,7 +168,7 @@ def update_x_timeseries(hoverData, yaxis_column_name, axis_type):
     dff = dff[dff['Indicator Name'] == yaxis_column_name]
     return create_time_series(dff, axis_type, yaxis_column_name)
 
-if __name__ == '__main__':
-    app.run_server(port=8855)
-#app.run_server(port='8855')
+#if __name__ == '__main__':
+ #   app.run_server(port=8855)
+app.run_server(port='8855')
 
