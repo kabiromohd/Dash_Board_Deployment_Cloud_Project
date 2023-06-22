@@ -15,6 +15,7 @@ clyent
 colorlover
 comtypes
 constantly
+gunicorn
 cssselect
 cufflinks
 cytoolz
