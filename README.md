@@ -5,7 +5,7 @@
 
 ![Screenshot of cloud deployment actual](https://github.com/kabiromohd/Dash_Board_Deployment_Cloud_Project/assets/121871052/1948ebe4-a305-44ef-8f0e-159edded2036)
 
-Dasd Board codes were courtesy of Prof. Stanley Omeike of OneCampus Academy during one of DashBoard building training sessions (Using Dash). 
+Dashboard codes were courtesy of Prof. Stanley Omeike of OneCampus Academy during one of DashBoard building training sessions (Using Dash). 
 
 I went further to deploy to cloud via [Render](render.com)
 
